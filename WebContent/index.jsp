@@ -8,8 +8,7 @@
 </head>
 <body>
 Hello!  The time is now <%= new java.util.Date() %>
-<img src="/1.png"> <%= //not work%>
-
+<img src="/1.png"> 
 
 
 
